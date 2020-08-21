@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Diplomna</string>
+    <string name="change_city">Change city</string>
+
+    <string name="open_weather_maps_app_id">5ac967204a620606510da9f3fe219271</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="wanna_know_weather">Wanna know what\'s the weather like?</string>
+    <string name="wanna_know_restaurants">Interested in nearby restaurants?</string>
+    <string name="compass">Compass</string>
+    <string name="image_button">Weather button</string>
+    <string name="restaurant_button">Restaurant button</string>
+    <string name="enter_city">Enter city name</string>
+    <string name="search_button">Check Weather</string>
+    <string name="city">City</string>
+    <string name="search_button_food">Check Restaurants</string>
+    <string name="city_name">City name</string>
+    <string name="last_update_example">Last update: Jul 2, 2014 3:30:00 AM</string>
+    <string name="temperature_text">2.00 °C</string>
+    <string name="fog_hum_pre_text">FOG\n\nHumidity:100%\nPressure: 1029 hPa</string>
+    <string name="enter_another_city">Enter another city</string>
+    <string name="search_another_weather">Check weather for another city</string>
+    <string name="home_button">Home button</string>
+    <string name="search_another_restaurant">Search restaurants for another city</string>
+    <string name="city_or_restaurant">City or Restaurant name</string>
+    <string name="enter_city_or_restaurant">Enter city or restaurant name</string>
+    <string name="type_here">Type here...</string>
+</resources>
